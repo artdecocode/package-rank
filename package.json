@@ -31,7 +31,11 @@
   },
   "keywords": [
     "package-rank",
-    "artdeco"
+    "artdeco",
+    "rank",
+    "search",
+    "position",
+    "npm"
   ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
