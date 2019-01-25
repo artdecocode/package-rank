@@ -1,6 +1,6 @@
 {
   "name": "package-rank",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find Out The Package Search Rank.",
   "main": "build",
   "scripts": {
