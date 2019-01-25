@@ -2,11 +2,13 @@
 
 %NPM: package-rank%
 
-`package-rank` is Find Out The Package Search Rank.
+`package-rank` is To Find Out The Package Search Rank.
 
 ```sh
 yarn add -E package-rank
 ```
+
+<Sponsor/>
 
 ## Table Of Contents
 
