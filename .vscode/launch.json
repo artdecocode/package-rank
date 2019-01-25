@@ -10,7 +10,7 @@
       "name": "Launch Zoroaster",
       "program": "${workspaceFolder}/node_modules/.bin/zoroaster",
       "env": {
-        "NODE_DEBUG": "@artdeco/package-rank",
+        "NODE_DEBUG": "package-rank",
       },
       "console": "integratedTerminal",
       "args": [
@@ -31,7 +31,7 @@
       "name": "Launch Example",
       "program": "${workspaceFolder}/example/index.js",
       "env": {
-        "NODE_DEBUG": "@artdeco/package-rank",
+        "NODE_DEBUG": "package-rank",
       },
       "console": "integratedTerminal",
       "args": [

@@ -1,11 +1,11 @@
-# @artdeco/package-rank
+# package-rank
 
-[![npm version](https://badge.fury.io/js/@artdeco/package-rank.svg)](https://npmjs.org/package/@artdeco/package-rank)
+[![npm version](https://badge.fury.io/js/package-rank.svg)](https://npmjs.org/package/package-rank)
 
-`@artdeco/package-rank` is Find Out The Package Search Rank.
+`package-rank` is Find Out The Package Search Rank.
 
 ```sh
-yarn add -E @artdeco/package-rank
+yarn add -E package-rank
 ```
 
 ## Table Of Contents
@@ -23,7 +23,7 @@ yarn add -E @artdeco/package-rank
 The package is available by importing its default function:
 
 ```js
-import packageRank from '@artdeco/package-rank'
+import packageRank from 'package-rank'
 ```
 
 <p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/1.svg?sanitize=true"></a></p>
@@ -41,7 +41,7 @@ __<a name="type-config">`Config`</a>__: Options for the program.
 
 ```js
 /* yarn example/ */
-import packageRank from '@artdeco/package-rank'
+import packageRank from 'package-rank'
 
 (async () => {
   const res = await packageRank({

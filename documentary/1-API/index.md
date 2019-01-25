@@ -3,7 +3,7 @@
 The package is available by importing its default function:
 
 ```js
-import packageRank from '@artdeco/package-rank'
+import packageRank from 'package-rank'
 ```
 
 %~%
@@ -19,7 +19,7 @@ Call this function to get the result you want.
 
 %TYPEDEF types/index.xml%
 
-%EXAMPLE: example/example.js, ../src => @artdeco/package-rank%
+%EXAMPLE: example/example.js, ../src => package-rank%
 %FORK example example/example%
 
 %~%

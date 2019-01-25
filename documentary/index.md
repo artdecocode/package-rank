@@ -1,11 +1,11 @@
-# @artdeco/package-rank
+# package-rank
 
-%NPM: @artdeco/package-rank%
+%NPM: package-rank%
 
-`@artdeco/package-rank` is Find Out The Package Search Rank.
+`package-rank` is Find Out The Package Search Rank.
 
 ```sh
-yarn add -E @artdeco/package-rank
+yarn add -E package-rank
 ```
 
 ## Table Of Contents

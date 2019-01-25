@@ -1,7 +1,7 @@
 import { resolve } from 'path'
 import { debuglog } from 'util'
 
-const LOG = debuglog('@artdeco/package-rank')
+const LOG = debuglog('package-rank')
 
 const FIXTURE = resolve(__dirname, '../fixture')
 
