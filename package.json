@@ -42,5 +42,11 @@
     "eslint-config-artdeco": "1.0.1",
     "yarn-s": "1.1.0",
     "zoroaster": "3.6.6"
+  },
+  "dependencies": {
+    "argufy": "1.3.2",
+    "erte": "1.1.6",
+    "rqt": "3.0.3",
+    "usually": "1.1.0"
   }
 }
